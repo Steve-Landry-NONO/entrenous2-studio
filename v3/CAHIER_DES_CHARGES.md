@@ -5,16 +5,16 @@ Base expérimentale, distincte du site publié. Aucune modification de `main`.
 
 ## Hypothèses de surfaces
 - Airbnb KONOS SUITES : 20 m², rectangle **5 × 4 m** (hypothèse).
-- Place Michelet : 20 m², rectangle **5 × 4 m** (hypothèse).
+- Place Michelet : **salon mesuré environ 3,75 × 2,77 m = 10,39 m²** (croquis transmis le 30 octobre 2026). Zone ouverte sur cuisine et entrée, surface théorique du salon, pas nécessairement intégralement exploitable. Terrasse et fenêtre sur le côté gauche, canapé le long du côté bas, bureau/TV côté haut, chauffage à proximité du canapé. Vérifier les dimensions nettes, meubles et dégagements.
 - Studio idéal prospectif : 25 m², rectangle **5 × 5 m** (hypothèse).
 - Hauteur provisoire : 2,50 m, non mesurée.
-- Portes, fenêtres, prises, acoustique et mobilier réel : inconnus.
+- Place Michelet : plan schématique utilisateur disponible, ouvrants et mobilier identifiés approximativement. À confirmer : position exacte des prises, hauteurs, dimensions du canapé, dégagements, seuils et acoustique. Autres espaces : non relevés.
 
 Ces hypothèses n'autorisent **aucun achat dimensionnant ni travaux**.
 
 ## Intentions par lieu
 - **Airbnb :** décor réversible, équipements mobiles, rangement, aucune fixation permanente.
-- **Place Michelet :** configuration semi-permanente et plus personnalisée.
+- **Place Michelet :** **mini-plateau salon réversible** pour duo en priorité, trio seulement après simulation d'encombrement, table ronde à quatre déconseillée dans cette zone de 10,4 m². Utiliser idéalement canapé et table existants, supports compacts et lumières hors champ. Ne pas obstruer entrée, terrasse, fenêtre, circulation vers la cuisine, chauffage.
 - **Idéal :** espace prospectif, sans prétendre représenter un logement actuel.
 
 ## Scènes à tester
